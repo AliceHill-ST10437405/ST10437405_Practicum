@@ -33,7 +33,6 @@ Exit button to exit.
 ![Screenshot 2024-06-10 143320](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/fdc7d5f7-442e-48ab-a901-353695f14028)
 ![Screenshot 2024-06-10 142631](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/15efb453-f491-48c5-b8a4-fca8e6d60db9)
 ![Screenshot 2024-06-10 142623](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/ee922fd5-ae50-455a-b8f2-352400144662)
-![Screenshot 2024-06-10 143431](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/e5be8961-f84c-4c9d-8c88-17e3b01e8771)
 ![Screenshot 2024-06-10 143438](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/da9f28fc-eefc-4890-86c8-bac49e754799)
 ![Screenshot 2024-06-10 143444](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/380a60f0-b060-4007-acb5-dda73786a593)
 ![Screenshot 2024-06-10 143450](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/88af9476-d973-4d5c-815f-079699e478dc)
@@ -44,6 +43,8 @@ Exit button to exit.
 ![Screenshot 2024-06-10 144629](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/0b025dc6-638e-41ca-a4f1-3277e21bb534)
 ![Screenshot 2024-06-10 144931](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/a2aadaec-12ea-47fa-a89d-04d3e7f9215b)
 ![Screenshot 2024-06-10 144620](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/f9946bc0-6d6f-46d9-9a14-1a7418f29112)
+![Screenshot 2024-06-10 153846](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/8d62df15-dc9c-4ea9-94cc-d233d05d4796)
+![Screenshot 2024-06-10 153846](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/13af3516-80db-44c3-903e-a4dbd6409544)
 
 Cloud Image URL: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fweather&psig=AOvVaw3vz157stWT5NTc7ffjAm9E&ust=1718111004616000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiRjdWM0YYDFQAAAAAdAAAAABAJ
 
