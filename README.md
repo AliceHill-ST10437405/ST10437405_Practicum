@@ -32,7 +32,9 @@ Output all the data the was inputted in the MainScreen
 Exit button to exit.
 ![Screenshot 2024-06-10 143320](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/fdc7d5f7-442e-48ab-a901-353695f14028)
 ![Screenshot 2024-06-10 142631](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/15efb453-f491-48c5-b8a4-fca8e6d60db9)
-![Screenshot 2024-06-10 142623](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/ee922fd5-ae50-455a-b8f2-352400144662)
+![Screenshot 2024-06-10 153846](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/b4a869c7-6c5b-490c-ab99-1103d4056015)
+![Screenshot 2024-06-10 153846](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/6226497a-1658-4d1c-8c14-bac6c4fe27b7)
+
 ![Screenshot 2024-06-10 143438](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/da9f28fc-eefc-4890-86c8-bac49e754799)
 ![Screenshot 2024-06-10 143444](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/380a60f0-b060-4007-acb5-dda73786a593)
 ![Screenshot 2024-06-10 143450](https://github.com/AliceHill-ST10437405/ST10437405_Practicum/assets/164025376/88af9476-d973-4d5c-815f-079699e478dc)
