@@ -18,7 +18,7 @@ Calculates and displays the average temperature for the week.
 View detailed weather information on a separate screen.
 ### Installation
  Clone the repository:
-git clone https:
+git clone https: https://github.com/AliceHill-ST10437405/ST10437405_Practicum.git 
 Open the project in Android Studio.
 Build and run the project on an emulator or physical device.
 ### Usage
